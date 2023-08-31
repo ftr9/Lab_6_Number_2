@@ -1,6 +1,6 @@
 # Create the Database for storing User Profile and Display the result connecting to this Database
 
-# Step 1 - Write this
+# Step 1 - Write this in Program.cs file
 
 ```
 namespace Number2
@@ -22,7 +22,7 @@ namespace Number2
 }
 ```
 
-# Step -2 Write this
+# Step -2 Write this in Form1.Designer.cs file
 
 ```
 namespace Number2
@@ -107,7 +107,7 @@ namespace Number2
 
 ![image](https://github.com/ftr9/Lab_6_Number_2/assets/60734475/4d240d57-5493-4c04-a11c-adf7c8cd8440)
 
-# Step - 4 - write this
+# Step - 4 - write this in Form1.cs file
 
 ```
 using System.Data;
